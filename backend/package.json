@@ -7,9 +7,9 @@
     "start": "json-server --watch db.json --port 3001"
   },
   "keywords": [],
-  "author": "",
+  "author": "Roger Cabral",
   "license": "ISC",
-  "description": "",
+  "description": "A simulated API backend using json-server for development and testing purposes.",
   "dependencies": {
     "json-server": "^1.0.0-beta.1"
   }
