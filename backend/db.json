@@ -2,19 +2,19 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Preta",
+      "product": "Caneta Preta",
       "brand": "BIC",
       "price": 1.20
     },
     {
       "id": 2,
-      "name": "MacBook Pro M3 Max",
+      "product": "MacBook Pro M3 Max",
       "brand": "Apple",
       "price": 37000.00
     },
     {
       "id": 3,
-      "name": "Galaxy S24 Ultra",
+      "product": "Galaxy S24 Ultra",
       "brand": "Samsung",
       "price": 9899.10
     }
